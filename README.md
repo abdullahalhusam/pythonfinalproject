@@ -24,6 +24,5 @@ Once the installation is complete, you can launch the program by running the "ma
 
 
 ## License
-anyone can use the code free of any charge.
-
+NO ONE CAN USE IT JUST FOR EDUCATIONAL PURPOSE
 
