@@ -16,7 +16,7 @@ Two technical indicators used in trading are the Simple Moving Average (SMA) and
 You have two options: either download the zip file from GitHub and unzip it, or clone the repository to your project.
 
 
-Usage
+## Usage
 Once the installation is complete, you can launch the program by running the "main.py" file; however, you must change the orcl.csv file with the desired data.
 
 # Contributor
